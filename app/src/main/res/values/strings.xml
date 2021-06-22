@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ImageDiceRoller</string>
+    <string name="roll_label">Roll</string>
+</resources>
